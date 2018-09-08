@@ -1,0 +1,9 @@
+So I remembered u wanted that server for your mmo, and i dont think it would be good to have it at my house due to a lot of internet downtime so Im going to make a little list of the parts i have here
+I could build now, and give it to you whenever. I only have tower cases right now.
+You asked for no specs at all. Perfect. Im assuming u mean on top of Windows requirements. Also I can install windows server or windows home or Docker on Ubuntu if you want to go that route.
+Windows needs 1ghz or faster processor. Perfect, you can get those for free. 
+Windows needs 2gb of ram. A little uncomfortable, especially for a server. In fact, you might want around 8gb (8gb ddr2 is about $50 but i already have a bunch) for a small server. Especially for Windows with all the background stuff, less so for win server.
+Windows wants 20gb+ hard drive space. I'll throw in a 160gb boot drive plus a 1tb data drive for $20 total value.
+Windows wants a DirectX9 capable graphics card. Thats not reeeeally necessary, I have one from 2004 that can run windows at 480p fine. if you want any higher resolution for setup, I have a $40 Nvidia gts250 that more than meets the requirement.
+800x600 display requirement is more than met I assume. None of my cpus actually meet the requirements for windows server 2016 or 2019, so I'll just take the liberty of saying win10 enterprise is your best bet.
+anyways, a finished server with the specs above will be worth like $100. U can buy it or lend it or rent it or whatever, if you still want it.
